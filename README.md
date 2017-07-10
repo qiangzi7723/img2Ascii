@@ -1,4 +1,14 @@
-Img2Ascii，基于JS的图片转ASCII示意图。
+img2Ascii，基于JS的图片转ASCII示意图。
+
+### 效果
+
+转码前图片
+
+![image](./src/assets/av.png)
+
+转码后图片
+
+![image](./src/assets/av-r.png)
 
 ### 构建
 
